@@ -1,3 +1,0 @@
-roslaunch turtlebot3_gazebo turtlebot3_house.launch
-roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/catkin_ws/src/vjezba2/map.yaml
-
