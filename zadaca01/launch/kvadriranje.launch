@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<launch>
+
+	<node name="Brojac" pkg="zadaca01" type="brojcanik.py" output="screen"/>
+
+	<node name="Kvadraticar" pkg="zadaca01" type="kvadriranje.py" output="screen"/>
+
+</launch>
